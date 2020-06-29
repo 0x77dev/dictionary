@@ -8,7 +8,7 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Словарик @0x77dev"
+DICT_NAME		=	"0x77dev"
 DICT_SRC_PATH		=	MyDictionary.xml
 CSS_PATH		=	MyDictionary.css
 PLIST_PATH		=	MyInfo.plist
