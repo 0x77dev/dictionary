@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<d:entry id="blyat" d:title="Блять">
+	<d:index d:value="Блять"/>
+	<h1>Блять</h1>
+	<p>Человек выражает недовольство</p>
+</d:entry>
+<d:entry id="zdohnut" d:title="здохнуть">
+	<d:index d:value="здохнуть"/>
+	<h1>здохнуть</h1>
+	<p>Человек устал и хочет поспать</p>
+</d:entry>
+<d:entry id="vova" d:title="Вова">
+	<d:index d:value="Вова"/>
+	<h1>Вова</h1>
+	<p>Человек наебщик</p>
+</d:entry>
+</d:dictionary>
